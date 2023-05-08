@@ -1,0 +1,63 @@
+.titulo {
+  text-align: center;
+  padding: 30px;
+}
+
+.peso,
+.altura {
+  text-align: center;
+  padding: 20px;
+}
+
+.subtitulos {
+  padding: 7px;
+}
+
+.input {
+  height: 32px;
+  width: 320px;
+}
+
+.btn {
+  max-width: 960px;
+  margin: 0px 270px;
+  width: 43%;
+  height: 35px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.resultado {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.resultado p {
+  font-size: 50px;
+}
+
+.yellow {
+  color: #b9b940;
+}
+
+.green {
+  color: #008000;
+}
+
+.blue {
+  color: #0000ff;
+}
+
+.orange {
+  color: #ffa500;
+}
+
+.red {
+  color: #ff0000;
+}
